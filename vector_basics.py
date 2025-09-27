@@ -24,5 +24,6 @@ import numpy as np
         - If both numbers are negative, the vector lies in 3rd quadrant of graph
         - If y-coordinate is negative and x-coordinate, the vector lies in 4th quadrant of graph
         - If x-coordinate is 0 the vector is drawn on the y-axis and vice-versa (the sign of the x or y coordinate in this case decides the direction of vector on the axis)
-        - If both are 0, the vector is at origin"""
-
+        - If both are 0, the vector is at origin
+        
+    3D Vectors have Octants not quadrant. The 3-coordinates decides the octant of the vector"""
